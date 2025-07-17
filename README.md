@@ -30,17 +30,6 @@ sudo python3 deesociety.py
 Screenshots
 🎯 Main Menu
 
-🌐 DNS Lookup Example
-## 📸 Screenshots
-
-### 🎯 Main Menu
-![Main Menu](deesociety.jpeg)
-
-### 🌐 DNS Lookup
-![DNS Lookup](deesociety2.jpeg)
-
-### 🛰️ Network Scan
-![Network Scan](dee3.jpeg)
 
 
 
