@@ -25,6 +25,9 @@ pip3 install -r requirements.txt
 Run the Tool
 
 sudo python3 deesociety.py
+deesociety.jpeg
+deesociety2.jpeg
+dee3.jpeg
 
     ⚠️ sudo is required for ARP scanning (network scan feature)
 🔗 Author
