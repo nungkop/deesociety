@@ -27,8 +27,27 @@ Run the Tool
 sudo python3 deesociety.py
 
     ⚠️ sudo is required for ARP scanning (network scan feature)
-Screenshots
+📸 Screenshots
 🎯 Main Menu
+
+🌐 DNS Lookup Example
+
+🛰️ Network Scan
+## 📸 Screenshots
+
+### 🎯 Main Menu
+<img src="deesociety.jpeg" alt="Main Menu" width="600"/>
+
+### 🌐 DNS Lookup
+<img src="deesociety2.jpeg" alt="DNS Lookup" width="600"/>
+
+### 🛰️ Network Scan
+<img src="dee3.jpeg" alt="Network Scan" width="600"/>
+
+🔗 Author
+
+Created by @nungkop
+
 
 
 
