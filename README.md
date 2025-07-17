@@ -32,4 +32,15 @@ Screenshots
 
 🌐 DNS Lookup Example
 
-🛰️ Network Scan
+🛰️ Network Scan## 📸 Screenshots
+
+### 🎯 Main Menu
+![Main Menu](screenshots/deesociety.jpeg)
+
+### 🌐 DNS Lookup
+![DNS Lookup](screenshots/deesociety2.jpeg)
+
+### 🛰️ Network Scan
+![Network Scan](screenshots/dee3.jpeg)
+
+
